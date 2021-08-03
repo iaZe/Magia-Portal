@@ -1,2 +1,1 @@
-# Sousei-no-Onmyouji
-Servidor de Tibia
+Magia de Portal através de item
