@@ -4,7 +4,7 @@ local TeleportID = 1387
 local Teleport = {
 config = {
 Pos = getCreaturePosition(cid),
-ToPos = {x = getCreaturePosition(cid).x, y = getCreaturePosition(cid).y, z = getCreaturePosition(cid).z - 3},
+ToPos = {x = getCreaturePosition(cid).x, y = getCreaturePosition(cid).y, z = 3},
 Time = 10,
 },
 }
